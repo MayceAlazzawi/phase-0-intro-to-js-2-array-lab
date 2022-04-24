@@ -36,3 +36,4 @@ function removeLastCat(){
 function removeFirstCat(){
   return cats.slice(1, cats.length)
 }
+//jdjbj
