@@ -1,5 +1,4 @@
 const cats = ["Milo", "Otis", "Garfield"]
-console.log(cats)
 
 function destructivelyAppendCat(name){
   cats.push('Ralph')
